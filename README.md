@@ -30,7 +30,7 @@ This project involves analyzing spectral data from a file, normalizing the inten
    
 3. **Run the script:**
 ```bash
-   python spectral_analysis.py 3_6_3
+   python spectral_analysis.py
 ```
 
 3. **Output:**
