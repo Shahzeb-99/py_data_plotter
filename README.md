@@ -7,9 +7,7 @@ This project involves analyzing spectral data from a file, normalizing the inten
 - [Usage](#usage)
 - [Data Description](#data-description)
 - [Code Explanation](#code-explanation)
-- [Improvements](#improvements)
 - [Results](#results)
-- [License](#license)
 
 ## Installation
 
